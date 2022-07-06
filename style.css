@@ -1,5 +1,21 @@
 body{font-family: 'Source Code Pro', monospace;color:orangered;}
-.banner{background-image: url(images/1.webp) ;background-repeat: no-repeat; background-size: cover;height: 500px;text-align: center; margin-top: 0%;padding-top: 0%;}
-h1{font-size: 100px;}
-.button{text-decoration: none; background-image:linear-gradient(rgb(221, 221, 12),rgb(7, 172, 7)) ; padding: 10px 40px; font: weight 1000px;;border-radius: 20px;}
-p{font-size: 30px;}
+.banner{background-image: url(images/1.webp) ;background-repeat: no-repeat; background-size: cover;height: 500px;text-align: center; margin-top: 0%;padding-top: 0%;padding: 50px;}
+h1{font-size: 50px;}
+.button{text-decoration: none; background-image:linear-gradient(rgb(221, 221, 12),rgb(7, 172, 7)) ; padding: 10px 40px;border-radius: 5px;border: 0px;}
+p{font-size: 20px;}
+#sec2{text-align: center;}
+#tk li{font-size: 30px; display: inline;padding: 20px; margin: 10px; border: 1px;background-color: rgba(0, 0, 0, 0.199);}
+#tk2{border: 1px solid yellow;padding:10px;margin: 10px;}
+.plan{margin: 200px 300px  ; text-align: center;}
+#clss{text-align:left;display:flex;}
+.clss{ width:40%;padding: 20px;border:1px;margin: 40px;}
+#fd{background-color: rgba(181, 216, 204, 0.185);}
+#shel{background-color: rgba(110, 79, 79, 0.192);}
+#med{background-color: rgba(113, 136, 67, 0.253);}
+.first{display: flex;margin-bottom: 10px;padding: 50px;border: 10px;}
+.half{width: 50%;border: 40px; padding:60px}
+.first img{width: 50%;}
+#last{text-align: center;}
+.sub{text-align: center;border: 0ch;padding: 50px;background-color: rgba(0, 255, 255, 0.267);margin: 100px 100px;}
+.ft{background-color: black;text-align: center;border: 0ch;margin: 0%;}
+.pera{margin:0px;border: 0px;border-bottom: 2px solid rgba(255, 0, 0, 0.205);width: 60%;text-align: center;}
